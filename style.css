@@ -1,0 +1,11 @@
+.container {
+  background-color: rgb(150, 226, 43);
+  border: 5px solid rgb(10, 10, 10);
+  height: 300px;
+  width: auto;
+  margin: auto;
+  text-align: center;
+}
+.output {
+  margin-top: 5px;
+}
